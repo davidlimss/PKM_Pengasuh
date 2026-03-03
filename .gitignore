@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# Database & Cache
+db/
+db_chroma/
+docstore.pkl
+
+# Logs & Uploads
+logs/
+uploaded/
+uploaded_files/
+
+# Python cache (biar rapi)
+__pycache__/
+*.pyc
+*.pyo
